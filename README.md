@@ -4,6 +4,7 @@ Teachers can upload courses, and students can access and watch them. The technol
 The project follows the principles of clean architecture to ensure maintainability and scalability.
 
 Features:
+
 Teacher and student registration and login
 Teacher dashboard to manage courses and track progress
 Student dashboard to browse and watch available courses
